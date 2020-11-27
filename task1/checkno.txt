@@ -1,0 +1,6 @@
+var a = prompt('enter a value')
+var b = prompt('enter b value')
+
+if( (a || b == 50) || (a+b == 50)){
+  console.log('true')
+}
